@@ -1,4 +1,4 @@
-package com.microservices.checking.account.spring.ms;
+package com.microservices.credit.account;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
