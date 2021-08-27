@@ -8,11 +8,11 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.microservices.checking.account</groupId>
-	<artifactId>spring.ms</artifactId>
+	<groupId>com.microservices.credit.account</groupId>
+	<artifactId>credit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring.ms</name>
-	<description>A checking account project for Spring Boot</description>
+	<name>credit</name>
+	<description>A credit service for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
